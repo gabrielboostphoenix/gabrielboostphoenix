@@ -1,6 +1,6 @@
 ### Olá! Eu sou o Gabriel Pires 🚀
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/damonbarrosdev/)
-[![LinkendIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/damon-barros-a62437278/)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/gabriel_pires_web_developer/)
+[![LinkendIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/mwlite/in/gabriel-da-silva-pires-391a071b5/)
 
 <div align="center">
     <a href="https://github.com/gabrielboostphoenix">
