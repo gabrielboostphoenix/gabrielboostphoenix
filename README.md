@@ -4,8 +4,8 @@
 
 <div align="center">
     <a href="https://github.com/gabrielboostphoenix">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=damonbarros&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=damonbarros&layout=compact&langs_count=7&theme=dark">
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=gabrielboostphoenix&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gabrielboostphoenix&layout=compact&langs_count=7&theme=dark">
 </div>
 
 ## As Tecnologias Mais Utilizadas por mim:
