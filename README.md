@@ -15,7 +15,6 @@
    <img alt="CSS" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">
    <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
    <img alt="PHP" src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white">
-   <img alt="Python" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.tshirtgeek.com.br%2Floja%2Fcomputacao%2Fpython%2F&psig=AOvVaw1FX14Yj-g_fBtqtH3MzTv7&ust=1685110613512000&source=images&cd=vfe&ved=0CA4QjRxqFwoTCMixo5CskP8CFQAAAAAdAAAAABAP">
 </div> <br/>
 
 # Gabriel Pires - Desenvolvedor Web
