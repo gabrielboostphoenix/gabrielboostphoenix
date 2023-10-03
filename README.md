@@ -21,7 +21,7 @@
 
 ## Sobre mim
 
-Olá, sou Gabriel, um desenvolvedor júnior interessado em tecnologia e engenharia de software. Iniciei no processo de aprendizado da programação em 2020 (período de pandemia) e estou em busca de soluções de softwares que possam melhorar a vida das pessoas através da tecnologia na implementação de sistemas. Como desenvolvedor júnior, sempre busco o aprendizado, conhecimento, procuro me atualzar nas tecnologias ao longo do tempo e aperfeiçoar minhas técnicas para entregar soluções que possam agregar profundamente na vida das pessoas através de sistemas de informação.
+Olá, sou Gabriel, um desenvolvedor júnior interessado em tecnologia e engenharia de software. Iniciei no processo de aprendizado da programação em 2020 (período de pandemia) e estou em busca de soluções de softwares que possam melhorar a vida das pessoas através da tecnologia na implementação de sistemas. Como desenvolvedor júnior, sempre busco o aprendizado, conhecimento, procuro me atualzar nas tecnologias ao longo do tempo e aperfeiçoar minhas habilidades técnicas para entregar soluções que possam agregar profundamente na vida das pessoas através de sistemas de informação.
 
 ## Experiência
 
