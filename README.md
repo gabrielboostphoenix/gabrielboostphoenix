@@ -16,6 +16,7 @@
    <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
    <img alt="PHP" src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white">
    <img alt="React.JS" src="https://img.shields.io/badge/-ReactJs-61DAFB?logo=react&logoColor=white&style=for-the-badge">
+   <img alt="Node.js" src="https://img.shields.io/node/v/:packageName">
 </div> <br/>
 
 # Gabriel Pires - Desenvolvedor Web
@@ -23,23 +24,6 @@
 ## Sobre mim
 
 Olá, sou Gabriel, um desenvolvedor júnior interessado em tecnologia e engenharia de software. Iniciei no processo de aprendizado da programação em 2020 (período de pandemia) e estou em busca de soluções de softwares que possam melhorar a vida das pessoas através da tecnologia na implementação de sistemas. Como desenvolvedor júnior, sempre busco o aprendizado, conhecimento, procuro me atualzar nas tecnologias ao longo do tempo e aperfeiçoar minhas habilidades técnicas para entregar soluções que possam agregar profundamente na vida das pessoas através de sistemas de informação.
-
-## Experiência
-
-Durante esses quase 3 anos cursando o curso técnico de informática na instituição E.E.E.P Walter Ramos de Araújo, atuei em projetos de desenvolvimento de software web, tanto front-end como back-end e ainda tive a oportunidade de somar com excelentes programadores. No decorrer desse legado, adquiri experiência e competência na área de desenvolvimento web, como por exemplo:
-
-- Competência nas principais tecnologias front-end: HTML, CSS e JavaScript.
-- Competência na linguagem de programação PHP.
-- Competẽncia em Banco de dados relacional cujo o SGBD é o MySQL.
-- Sistema de Controle de versão: Utilizo o Git para controle de versão e colaboração em projetos, aproveitando as funcionalidades do GitHubpor mim no cotidiano para hospedar meus repositórios.
-
-## Projetos
-
-Durante minha jornada como desenvolvedor, participei de projetos de desenvolvimento de software no 2° ano ensino técnico, mais especificamente no 2° semestre entre os meses de agosto e novembro.
-
-- Projeto Fashion Style: Colaborei com uma equipe na criação de uma aplicação web de loja de roupas online, desenvolvendo o front-end do sistema, como a estilização e sugerindo idéias na estrutura HTML da aplicação.
-
-- Além disso, tive a experiência de desenvolver um sistema web, na qual estive responsável pelo back-end da aplicação, juntamente com a forte ajuda de um amigo/desenvolvedor Anderson Viana que me sugeriu a idéia e atuou juntamente comigo na implementação do token de acesso ao sistema através da criptografia de mão única, Projeto esse de trabalho de conclusão de curso.
 
 ## Aprendizado contínuo
 
@@ -50,6 +34,6 @@ Pretendo me graduar em Engenharia de software como forma de adquirir conheciment
 
 Como desenvolvedor, estou empolgado com as possibilidades que há por vir. Alguns dos meus objetivos futuros incluem:
 
-- Aprofundar meu conhecimento em desenvolvimento de software web, explorando frameworks e linguagens como React.js, Next.js, Node.js, Django e JavaScript juntamente com EcmaScript 6 e Python.
+- Aprofundar meu conhecimento em desenvolvimento web e desenvolvimento de software como um todo, explorando frameworks e linguagens como React.js, Next.js, Node.js, Nest.js e JavaScript juntamente com Python e Django.
 - Aprender mais sobre arquitetura de software e melhores práticas de design e design patterns para criar soluções escaláveis e de alto desempenho.
 - Aplicar a grande maioria dos princípios da Engenharia de Software como: testes e qualidades, manutenção e principalmente implementação.
