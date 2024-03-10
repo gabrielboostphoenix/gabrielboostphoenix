@@ -43,6 +43,6 @@ Pretendo me graduar em Engenharia de software como forma de adquirir conheciment
 
 Como desenvolvedor, estou empolgado com as possibilidades que há por vir. Os meus objetivos futuros incluem:
 
-- Aprofundar meu conhecimento em desenvolvimento web e desenvolvimento de software como um todo, explorando frameworks e linguagens como React.js, Next.js, Node.js, Nest.js e JavaScript juntamente com Python e Django.
+- Refinar e elevar meus conhecimentos em desenvolvimento de sistemas, sites e aplicações para web através do ecossistema JavaScript (Exemplos: Node.js, Nest.js, React.js e Next.js).
 - Aprender mais sobre arquitetura de software e melhores práticas de design e design patterns para criar soluções escaláveis e de alto desempenho.
 - Aplicar a grande maioria dos princípios da Engenharia de Software como: implementação (o desenvolvimento própriamente dito), os testes e qualidade (como forma de garantir a eficiência da solução tecnológica através de métricas visando atender corretamente às demandas do mercado), projeto e concepção (onde entram a modelagem de sistemas e bancos de dados até a idealização juntamente com a elaboração até o levantamento de requisitos) e por último mas não menos importante a manutenção (é aqui que chegamos nas melhorias, evoluções e correções de bugs e vulnerabilidades em sistemas legados).
